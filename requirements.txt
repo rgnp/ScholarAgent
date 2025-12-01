@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain
+langchain-openai
+langchain-community
+tavily-python
+llama-parse
+python-dotenv
+nest_asyncio
