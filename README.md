@@ -1,6 +1,6 @@
 # 🎓 ScholarAgent: 智能论文深度研报生成器
-    "Read Less, Understand More."
-    ScholarAgent 是一个基于 LLM 的科研辅助智能体。它不仅仅是总结摘要，更能通过 Deep Reading (深度精读) 和 Deep Research (全网调研)，为你生成一份包含学术脉络、领域热度、核心创新点及费曼式讲解的深度研报。
+"**Read Less, Understand More.**"
+ScholarAgent 是一个基于 LLM 的科研辅助智能体。它不仅仅是总结摘要，更能通过 **Deep Reading (深度精读)** 和 **Deep Research (全网调研)**，为你生成一份包含学术脉络、领域热度、核心创新点及费曼式讲解的深度研报。
 
 ## 🌟 核心痛点与解决方案
 作为科研人员，我们在阅读论文时常面临以下痛点：
